@@ -896,3 +896,328 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.21-14.35.16:003][  8]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.21-14.35.16:003][  8]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.04.21-14.35.16:003][  8]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-14.37.42:251][909]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2023.04.21-14.37.42:251][909]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-14.37.42:251][909]LogObjectTools: Currently 1 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-14.37.43:656][909]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.04.21-14.37.43:661][909]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2023.04.21-14.37.54:857][900]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.04.21-14.37.54:865][900]LogContentBrowser: Creating deferred item: NewWorld
+[2023.04.21-14.37.55:703][  1]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2023.04.21-14.37.55:813][  1]LogContentBrowser: End creating deferred item NewWorld
+[2023.04.21-14.37.57:102][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.21-14.37.58:297][144]LogSlate: Window 'Save Content' being destroyed
+[2023.04.21-14.37.58:325][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.04.21-14.37.58:327][144]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/ProgressiveGameEnginesUpdated/IMAT2104Assignment/Saved/NewWorldE095FAF14AB3F08DBA95FDA27A5927B9.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/ProgressiveGameEnginesUpdated/IMAT2104Assignment/Content/NewWorld.umap'
+[2023.04.21-14.37.58:328][144]LogFileHelpers: Saving map 'NewWorld' took 0.008
+[2023.04.21-14.37.58:345][144]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NewWorld.NewWorld
+[2023.04.21-14.37.58:421][144]Cmd: MAP LOAD FILE="../../../../../../Users/zefan/OneDrive/Documents/GitHub/ProgressiveGameEnginesUpdated/IMAT2104Assignment/Content/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.21-14.37.58:421][144]LightingResults: New page: Lighting Build
+[2023.04.21-14.37.58:421][144]LoadErrors: New page: Loading map: NewWorld.umap
+[2023.04.21-14.37.58:447][144]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-14.37.58:447][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-14.37.58:447][144]MapCheck: New page: Map Check
+[2023.04.21-14.37.58:447][144]LightingResults: New page: Lighting Build
+[2023.04.21-14.37.58:452][144]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-14.37.58:455][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.04.21-14.37.58:455][144]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewWorld'.
+[2023.04.21-14.37.58:545][144]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.21-14.37.58:545][144]LogAIModule: Creating AISystem for world NewWorld
+[2023.04.21-14.37.58:550][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.21-14.37.58:552][144]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.21-14.37.58:552][144]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2023.04.21-14.37.58:552][144]LogFileHelpers: Loading map 'NewWorld' took 0.132
+[2023.04.21-14.37.58:607][144]AssetCheck: New page: Asset Save: NewWorld
+[2023.04.21-14.37.58:607][144]LogContentValidation: Display: Validating World /Game/NewWorld.NewWorld
+[2023.04.21-14.38.04:218][794]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.21-14.38.04:249][794]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-14.38.04:249][794]LogObjectTools: Currently 1 active worlds: /Game/NewWorld.NewWorld
+[2023.04.21-14.38.04:258][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.21-14.38.06:672][794]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.21-14.38.06:832][794]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-14.38.06:832][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-14.38.06:887][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.04.21-14.38.06:893][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.21-14.38.06:898][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.04.21-14.38.06:902][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.21-14.38.06:906][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.21-14.38.06:912][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.04.21-14.38.06:917][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.04.21-14.38.06:922][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.04.21-14.38.06:927][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.04.21-14.38.06:931][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.04.21-14.38.06:937][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.04.21-14.38.06:942][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.04.21-14.38.06:947][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.04.21-14.38.06:951][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.04.21-14.38.06:955][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.04.21-14.38.06:961][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.21-14.38.06:965][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.04.21-14.38.06:970][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.04.21-14.38.06:975][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.04.21-14.38.06:980][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.04.21-14.38.06:985][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.04.21-14.38.06:990][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.04.21-14.38.06:994][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.21-14.38.06:999][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.21-14.38.07:004][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.21-14.38.07:009][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.04.21-14.38.07:014][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.04.21-14.38.07:018][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.04.21-14.38.07:024][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.04.21-14.38.07:029][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.04.21-14.38.07:034][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.21-14.38.07:039][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.21-14.38.07:044][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.21-14.38.07:050][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.04.21-14.38.07:057][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.04.21-14.38.07:062][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.04.21-14.38.07:067][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.04.21-14.38.07:071][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.21-14.38.07:075][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.04.21-14.38.07:080][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.21-14.38.07:088][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.04.21-14.38.07:094][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.04.21-14.38.07:098][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.04.21-14.38.07:102][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.04.21-14.38.07:108][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.04.21-14.38.07:112][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.21-14.38.07:127][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.04.21-14.38.07:132][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.04.21-14.40.35:886][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Assignment.uproject'. Unknown extension 'uproject'.
+[2023.04.21-14.40.35:889][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Config/DefaultEditor.ini'. Unknown extension 'ini'.
+[2023.04.21-14.40.35:891][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Config/DefaultEditorPerProjectUserSettings.ini'. Unknown extension 'ini'.
+[2023.04.21-14.40.35:893][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Config/DefaultEngine.ini'. Unknown extension 'ini'.
+[2023.04.21-14.40.35:895][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Config/DefaultGame.ini'. Unknown extension 'ini'.
+[2023.04.21-14.40.35:897][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Config/DefaultInput.ini'. Unknown extension 'ini'.
+[2023.04.21-14.40.35:899][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/AssignmentStuff/PlayerUI.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:901][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Geometry/Meshes/1M_Cube.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:903][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:904][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Geometry/Meshes/CubeMaterial.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:907][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Geometry/Meshes/TemplateFloor.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:910][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Animations/ThirdPersonIdle.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:912][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Animations/ThirdPersonJump_End.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:915][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:917][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:919][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Animations/ThirdPersonRun.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:921][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Animations/ThirdPersonWalk.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:924][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:926][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:928][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Animations/ThirdPerson_Jump.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:931][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:933][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:935][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:938][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:940][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:942][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:944][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:946][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:948][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Materials/MI_Female_Body.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:951][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Materials/M_Male_Body.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:953][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:955][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:958][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:961][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:963][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:966][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:969][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Textures/T_Female_Mask.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:972][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Textures/T_Female_N.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:975][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Textures/T_Male_Mask.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:978][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Textures/T_Male_N.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:981][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:983][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:986][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyelash/M_EyelashMaster.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:989][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyelash/M_EyelashMaster_Inst.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:991][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyelash/T_Universal_Eyelashes_D.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:993][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/MaterialFunctions/ML_EyeRefraction.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:995][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Materials/ML_TacticiaULTEye.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.35:998][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Materials/M_EyeRefractive.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:000][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Materials/M_EyeRefractive_Glowing.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:002][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Materials/M_Eye_Occlusion.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:004][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Materials/M_TearDuct_2.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:006][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Materials/M_TearLine.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:009][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Materials/M_TwinBlast_EyeBlend.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:011][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/EpicQuadPanorama_CC.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:013][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/EyeInner_Profile.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:015][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_DecalMask_Radial03.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:018][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_EyeIrisBaseColor_Example_2.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:020][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_EyeIrisBaseColor_Example_6.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:022][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_EyeMidPlaneDisplacement_Example.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:024][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_EyeOcclusion2.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:027][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_EyeScleraBaseColor_Example_1B.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:029][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_EyeScleraBaseColor_Example_2.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:031][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_EyeScleraBaseColor_Example_4.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:033][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_EYE_NORMALS.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:036][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_Eye_Tearduct__normals2.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:038][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_Eye_Wet_Normal.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:041][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_Muriel_Corona_D.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:043][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_Sphere_EYE_NORMALS.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:046][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_Swirly_Noise.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:048][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_TearDuctSubsurfaceProfile.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:050][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Eyes/Textures/T_TwinBlast_UE4_Demo_Eye_Iris.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:053][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Materials/MF_BlendHairColorsWithParam.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:055][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Materials/M_HairSheet_Master2.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:057][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Textures/M_Hair2_Inst.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:059][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Textures/T_Alfa.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:061][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Textures/T_Caustics_2.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:064][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Textures/T_Depth.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:066][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Textures/T_Diffuse.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:068][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Textures/T_Fire_Tiled_D.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:071][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Textures/T_gradient_stasis.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:073][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Textures/T_HairClump02_Alpha.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:075][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Textures/T_HairClump02_Depth.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:077][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Textures/T_HairClump02_DyeMask.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.36:080][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Textures/T_HairClump02_ID.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.40:637][707]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment/Content/ParagonTwinblast/Characters/Global/Hair/Textures/T_HairClump02_Roots.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.40:730][707]LogAssetTools: The import task was canceled.
+[2023.04.21-14.40.40:899][712]LogEditorViewport: Clicking Background
+[2023.04.21-14.40.57:120][115]LogAssetTools: Warning: Failed to import 'C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEngines\Assignment\Content\AssignmentStuff/PlayerUI.uasset'. Unknown extension 'uasset'.
+[2023.04.21-14.40.57:120][115]LogAssetTools: The import task was canceled.
+[2023.04.21-14.42.43:262][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.21-14.42.43:277][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\Enemy.uasset: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint': Can't find file.
+[2023.04.21-14.42.43:277][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\Enemy.uasset: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint': Can't find file.
+[2023.04.21-14.42.43:284][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\Enemy.uasset: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Meshes/TwinBlast_ShadowOps': Can't find file.
+[2023.04.21-14.42.43:284][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\Enemy.uasset: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Meshes/TwinBlast_ShadowOps': Can't find file.
+[2023.04.21-14.42.43:284][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\Enemy.uasset: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint': Can't find file.
+[2023.04.21-14.42.43:285][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\Enemy.uasset: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Meshes/TwinBlast_ShadowOps': Can't find file.
+[2023.04.21-14.42.43:285][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint': Can't find file.
+[2023.04.21-14.42.43:286][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Meshes/TwinBlast_ShadowOps': Can't find file.
+[2023.04.21-14.42.43:286][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint': Can't find file.
+[2023.04.21-14.42.43:286][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Meshes/TwinBlast_ShadowOps': Can't find file.
+[2023.04.21-14.42.43:286][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint': Can't find file.
+[2023.04.21-14.42.43:287][ 25]LoadErrors: Failed to load /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C Referenced by Default__Enemy_C
+[2023.04.21-14.42.43:287][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Meshes/TwinBlast_ShadowOps': Can't find file.
+[2023.04.21-14.42.43:287][ 25]LoadErrors: Failed to load /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Meshes/TwinBlast_ShadowOps.TwinBlast_ShadowOps Referenced by Default__Enemy_C
+[2023.04.21-14.42.43:288][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\HealthItem.uasset: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:289][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\HealthItem.uasset: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:290][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\HealthItem.uasset: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:290][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:290][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:291][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:291][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:291][ 25]LoadErrors: Failed to load /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.TwinblastPlayerCharacter_C Referenced by K2Node_DynamicCast_0
+[2023.04.21-14.42.43:292][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:292][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:292][ 25]LoadErrors: Failed to load /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.TwinblastPlayerCharacter_C Referenced by K2Node_VariableGet_0
+[2023.04.21-14.42.43:292][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:293][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:293][ 25]LoadErrors: Failed to load /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.TwinblastPlayerCharacter_C Referenced by K2Node_VariableSet_0
+[2023.04.21-14.42.43:293][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:295][ 25]LogBlueprint: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\HealthItem.uasset: [Compiler] Could not find a variable named "CurrentHealth" in 'HealthItem'.
+Make sure 'HealthItem' has been compiled for  Set CurrentHealth
+[2023.04.21-14.42.43:295][ 25]LogBlueprint: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\HealthItem.uasset: [Compiler] Could not find a variable named "CurrentHealth" in 'HealthItem'.
+Make sure 'HealthItem' has been compiled for  Get CurrentHealth
+[2023.04.21-14.42.43:296][ 25]LogBlueprint: Error: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\HealthItem.uasset: [Compiler] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.04.21-14.42.43:296][ 25]LogBlueprint: Error: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\HealthItem.uasset: [Compiler] In use pin  As Twinblast Player Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.04.21-14.42.43:296][ 25]LogBlueprint: Error: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\HealthItem.uasset: [Compiler] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.04.21-14.42.43:296][ 25]LogBlueprint: Error: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\HealthItem.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/ThirdPersonBP/Blueprints/HealthItem.HealthItem_C'
+[2023.04.21-14.42.43:296][ 25]LogBlueprint: Error: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\HealthItem.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/ThirdPersonBP/Blueprints/HealthItem.HealthItem_C'
+[2023.04.21-14.42.43:298][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\ThirdPersonGameMode.uasset: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:298][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Blueprints\ThirdPersonGameMode.uasset: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:299][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:299][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:299][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter': Can't find file.
+[2023.04.21-14.42.43:299][ 25]LoadErrors: Failed to load /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.TwinblastPlayerCharacter_C Referenced by Default__ThirdPersonGameMode_C
+[2023.04.21-14.42.43:304][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Grass/SM_Grass_a': Can't find file.
+[2023.04.21-14.42.43:304][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Grass/SM_Grass_a': Can't find file.
+[2023.04.21-14.42.43:305][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Common_Plantago/SM_Common_Plantago_a': Can't find file.
+[2023.04.21-14.42.43:305][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Common_Plantago/SM_Common_Plantago_a': Can't find file.
+[2023.04.21-14.42.43:305][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/DownyOak/SM_Downy_Oak_a': Can't find file.
+[2023.04.21-14.42.43:306][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/DownyOak/SM_Downy_Oak_a': Can't find file.
+[2023.04.21-14.42.43:306][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Green_Hellebore/SM_Green_Hellebore_a': Can't find file.
+[2023.04.21-14.42.43:306][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Green_Hellebore/SM_Green_Hellebore_a': Can't find file.
+[2023.04.21-14.42.43:307][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Male_Fern/SM_Male_Fern_a': Can't find file.
+[2023.04.21-14.42.43:307][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Male_Fern/SM_Male_Fern_a': Can't find file.
+[2023.04.21-14.42.43:307][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a': Can't find file.
+[2023.04.21-14.42.43:308][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a': Can't find file.
+[2023.04.21-14.42.43:308][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e': Can't find file.
+[2023.04.21-14.42.43:308][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e': Can't find file.
+[2023.04.21-14.42.43:308][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f': Can't find file.
+[2023.04.21-14.42.43:309][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f': Can't find file.
+[2023.04.21-14.42.43:309][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Grass/SM_Grass_a': Can't find file.
+[2023.04.21-14.42.43:309][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Common_Plantago/SM_Common_Plantago_a': Can't find file.
+[2023.04.21-14.42.43:310][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/DownyOak/SM_Downy_Oak_a': Can't find file.
+[2023.04.21-14.42.43:310][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Green_Hellebore/SM_Green_Hellebore_a': Can't find file.
+[2023.04.21-14.42.43:310][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Male_Fern/SM_Male_Fern_a': Can't find file.
+[2023.04.21-14.42.43:310][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a': Can't find file.
+[2023.04.21-14.42.43:311][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e': Can't find file.
+[2023.04.21-14.42.43:311][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f': Can't find file.
+[2023.04.21-14.42.43:312][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/Grass/SM_Grass_a': Can't find file.
+[2023.04.21-14.42.43:312][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Common_Plantago/SM_Common_Plantago_a': Can't find file.
+[2023.04.21-14.42.43:312][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/DownyOak/SM_Downy_Oak_a': Can't find file.
+[2023.04.21-14.42.43:312][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Green_Hellebore/SM_Green_Hellebore_a': Can't find file.
+[2023.04.21-14.42.43:312][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Male_Fern/SM_Male_Fern_a': Can't find file.
+[2023.04.21-14.42.43:312][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a': Can't find file.
+[2023.04.21-14.42.43:313][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e': Can't find file.
+[2023.04.21-14.42.43:313][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f': Can't find file.
+[2023.04.21-14.42.43:313][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/Grass/SM_Grass_a': Can't find file.
+[2023.04.21-14.42.43:313][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Common_Plantago/SM_Common_Plantago_a': Can't find file.
+[2023.04.21-14.42.43:313][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/DownyOak/SM_Downy_Oak_a': Can't find file.
+[2023.04.21-14.42.43:313][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Green_Hellebore/SM_Green_Hellebore_a': Can't find file.
+[2023.04.21-14.42.43:313][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Male_Fern/SM_Male_Fern_a': Can't find file.
+[2023.04.21-14.42.43:314][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a': Can't find file.
+[2023.04.21-14.42.43:314][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e': Can't find file.
+[2023.04.21-14.42.43:314][ 25]LogLinker: Warning: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f': Can't find file.
+[2023.04.21-14.42.43:317][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a': Can't find file.
+[2023.04.21-14.42.43:317][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a.SM_Oak_Tree_a Referenced by InstancedFoliageActor_0
+[2023.04.21-14.42.43:317][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e': Can't find file.
+[2023.04.21-14.42.43:317][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e.SM_Oak_Tree_e Referenced by InstancedFoliageActor_0
+[2023.04.21-14.42.43:318][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Grass/SM_Grass_a': Can't find file.
+[2023.04.21-14.42.43:318][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/Grass/SM_Grass_a.SM_Grass_a Referenced by InstancedFoliageActor_0
+[2023.04.21-14.42.43:318][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f': Can't find file.
+[2023.04.21-14.42.43:318][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f Referenced by InstancedFoliageActor_0
+[2023.04.21-14.42.43:319][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Common_Plantago/SM_Common_Plantago_a': Can't find file.
+[2023.04.21-14.42.43:319][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/GroundPlants/Common_Plantago/SM_Common_Plantago_a.SM_Common_Plantago_a Referenced by InstancedFoliageActor_0
+[2023.04.21-14.42.43:319][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/DownyOak/SM_Downy_Oak_a': Can't find file.
+[2023.04.21-14.42.43:319][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/GroundPlants/DownyOak/SM_Downy_Oak_a.SM_Downy_Oak_a Referenced by InstancedFoliageActor_0
+[2023.04.21-14.42.43:320][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Green_Hellebore/SM_Green_Hellebore_a': Can't find file.
+[2023.04.21-14.42.43:320][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/GroundPlants/Green_Hellebore/SM_Green_Hellebore_a.SM_Green_Hellebore_a Referenced by InstancedFoliageActor_0
+[2023.04.21-14.42.43:321][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Male_Fern/SM_Male_Fern_a': Can't find file.
+[2023.04.21-14.42.43:321][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/GroundPlants/Male_Fern/SM_Male_Fern_a.SM_Male_Fern_a Referenced by InstancedFoliageActor_0
+[2023.04.21-14.42.43:321][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a': Can't find file.
+[2023.04.21-14.42.43:321][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a.SM_Oak_Tree_a Referenced by FoliageType_InstancedStaticMesh_0
+[2023.04.21-14.42.43:321][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f': Can't find file.
+[2023.04.21-14.42.43:321][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f Referenced by FoliageType_InstancedStaticMesh_1
+[2023.04.21-14.42.43:322][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e': Can't find file.
+[2023.04.21-14.42.43:322][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e.SM_Oak_Tree_e Referenced by FoliageType_InstancedStaticMesh_2
+[2023.04.21-14.42.43:322][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/DownyOak/SM_Downy_Oak_a': Can't find file.
+[2023.04.21-14.42.43:322][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/GroundPlants/DownyOak/SM_Downy_Oak_a.SM_Downy_Oak_a Referenced by FoliageType_InstancedStaticMesh_4
+[2023.04.21-14.42.43:322][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Common_Plantago/SM_Common_Plantago_a': Can't find file.
+[2023.04.21-14.42.43:322][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/GroundPlants/Common_Plantago/SM_Common_Plantago_a.SM_Common_Plantago_a Referenced by FoliageType_InstancedStaticMesh_5
+[2023.04.21-14.42.43:323][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Green_Hellebore/SM_Green_Hellebore_a': Can't find file.
+[2023.04.21-14.42.43:323][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/GroundPlants/Green_Hellebore/SM_Green_Hellebore_a.SM_Green_Hellebore_a Referenced by FoliageType_InstancedStaticMesh_6
+[2023.04.21-14.42.43:323][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/GroundPlants/Male_Fern/SM_Male_Fern_a': Can't find file.
+[2023.04.21-14.42.43:323][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/GroundPlants/Male_Fern/SM_Male_Fern_a.SM_Male_Fern_a Referenced by FoliageType_InstancedStaticMesh_7
+[2023.04.21-14.42.43:323][ 25]LogLinker: Warning: [AssetLog] C:\Users\zefan\OneDrive\Documents\GitHub\ProgressiveGameEnginesUpdated\IMAT2104Assignment\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MAEOakForest/Meshes/Environments/Grass/SM_Grass_a': Can't find file.
+[2023.04.21-14.42.43:323][ 25]LoadErrors: Failed to load /Game/MAEOakForest/Meshes/Environments/Grass/SM_Grass_a.SM_Grass_a Referenced by FoliageType_InstancedStaticMesh_8
+[2023.04.21-14.42.43:376][ 25]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-14.42.43:376][ 25]LightingResults: New page: Lighting Build
+[2023.04.21-14.42.43:376][ 25]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2023.04.21-14.42.43:377][ 25]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-14.42.43:377][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-14.42.43:377][ 25]MapCheck: New page: Map Check
+[2023.04.21-14.42.43:377][ 25]LightingResults: New page: Lighting Build
+[2023.04.21-14.42.43:382][ 25]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-14.42.43:387][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.04.21-14.42.43:387][ 25]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.04.21-14.42.43:393][ 25]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.21-14.42.43:393][ 25]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.21-14.42.43:399][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.21-14.42.43:400][ 25]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.21-14.42.43:400][ 25]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2023.04.21-14.42.43:400][ 25]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.025
+[2023.04.21-14.42.49:659][757]LogObjectTools: Deleting 1 worlds: /Game/NewWorld.NewWorld
+[2023.04.21-14.42.49:659][757]LogObjectTools: Currently 1 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-14.42.49:664][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.04.21-14.42.50:386][757]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.21-14.42.50:410][757]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-14.42.50:410][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-14.42.50:440][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.21-14.42.50:450][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.21-14.42.50:455][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.04.21-14.42.52:294][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.04.21-14.42.52:343][975]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/ProgressiveGameEnginesUpdated/IMAT2104Assignment/Saved/ThirdPersonExampleMap29ACCCAF44E82C916F1DADAFC3306ED5.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/ProgressiveGameEnginesUpdated/IMAT2104Assignment/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.21-14.42.52:400][975]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/ProgressiveGameEnginesUpdated/IMAT2104Assignment/Saved/ThirdPersonExampleMap_BuiltData15FB495F4C49F9DE7339B994C5F3984D.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/ProgressiveGameEnginesUpdated/IMAT2104Assignment/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.21-14.42.52:409][975]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-14.42.52:409][975]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-14.42.52:409][975]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
